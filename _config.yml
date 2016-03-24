@@ -2,6 +2,7 @@ name: treygaskins
 favicon: null
 layout_spectrum: 0.24553
 typography_spectrum: 0.48528
+title: profile
 cta:
   domain: null
   bucket: null
