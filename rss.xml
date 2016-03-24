@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[treygaskins]]></title>
+        <description><![CDATA[treygaskins]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Mar 2016 23:35:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ASHISH BISARIA]]></title>
+            <description><![CDATA[<article><h1>ASHISH BISARIA</h1><p>Trey Gaskins </p></article>]]></description>
+            <link>undefinedashish-bisaria/index.html</link>
+            <guid isPermaLink="false">c0f5bd0f-dc54-4bca-97fb-dd6e0f8b535d</guid>
+            <pubDate>Thu, 24 Mar 2016 23:35:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
