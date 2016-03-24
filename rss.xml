@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[profile]]></title>
+        <description><![CDATA[profile]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Mar 2016 23:56:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trey Gaskins]]></title>
+            <description><![CDATA[<article><h1>Trey Gaskins</h1><h2>Visionary leader that Innovates, Collaborates, and Translates Strategy in to Winning Executable Plans</h2><p>BUSINESS EXECUTIVE</p></article>]]></description>
+            <link>undefinedtrey-gaskins/index.html</link>
+            <guid isPermaLink="false">b0d85b88-2f0b-4f76-ac5c-2c15e05523a0</guid>
+            <pubDate>Thu, 24 Mar 2016 23:56:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
