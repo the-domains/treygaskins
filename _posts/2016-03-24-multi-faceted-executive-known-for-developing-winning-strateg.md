@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: >-
   Multi-faceted
@@ -14,8 +14,8 @@ description: >-
   technology
 
   arena.
-datePublished: '2016-03-25T01:06:51.687Z'
-dateModified: '2016-03-25T01:06:46.625Z'
+datePublished: '2016-03-25T01:10:33.972Z'
+dateModified: '2016-03-25T01:08:11.560Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-24-multi-faceted-executive-known-for-developing-winning-strateg.md
