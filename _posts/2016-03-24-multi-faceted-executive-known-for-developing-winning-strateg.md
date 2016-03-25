@@ -14,18 +14,18 @@ description: >-
   technology
 
   arena.
-datePublished: '2016-03-24T23:58:33.350Z'
-dateModified: '2016-03-24T23:55:32.426Z'
+datePublished: '2016-03-25T01:06:51.687Z'
+dateModified: '2016-03-25T01:06:46.625Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-24-multi-faceted-executive-known-for-developing-winning-strateg.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-multi-faceted-executive-known-for-developing-winning-strateg.md
-published: true
 url: multi-faceted-executive-known-for-developing-winning-strateg/index.html
 _type: Article
 
@@ -248,12 +248,10 @@ Sales Manager / Atlanta, Ga
 
 * Responsible for $17M business unit that achieved
 plan while increasing margins and "right-sizing" the department.
-* 
-Held various titles including Account Rep.,
+* Held various titles including Account Rep.,
 National Account Rep., Service Marketing Manager and Sr. National Account
 Rep.
-* 
-Consistently over achieved quota plan and sales
+* Consistently over achieved quota plan and sales
 contests resulting in President's Club attendance.
 
 ****
