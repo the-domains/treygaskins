@@ -1,29 +1,41 @@
-name: treygaskins
-favicon: null
-layout_spectrum: 0.24553
-typography_spectrum: 0.48528
 title: profile
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3661888
+  brandStrength: 0.3125
+  lightness: 0.7544802
   brandColors:
     - '#d6d6d6'
     - '#0a0a0a'
     - '#7e909e'
     - '#603022'
     - '#d96fa0'
-  brandStrength: 0.3125
-  lightness: 0.625
-  saturation: 0.6193021705839783
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.620669
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: treygaskins
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.48528
+layout_spectrum: 0.24553
